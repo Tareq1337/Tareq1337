@@ -4,16 +4,15 @@
 
 ## 🧑‍💻 About Me
 
-I'm currently completing my *Bachelor's degree in Computer Science* at *Bielefeld University of Applied Sciences, with a focus on **software development* and *system design*.
+I'm currently completing my _Bachelor's degree in Computer Science_ at [Bielefeld University of Applied Sciences](https://www.fh-bielefeld.de), with a focus on _software development_ and _system design_.
 
-Since *2022, I have been working as an **IT Administrator* at the university’s data center (DVZ), where I support the IT infrastructure and digital services.
+Since **2022**, I have been working as an **IT Administrator** at the university’s data center (DVZ), where I support the IT infrastructure and digital services.
 
-In addition to that, I am involved in publicly funded *research projects* related to *software engineering* and *digital education. Under the supervision of **Prof. Dr.-Ing. Carsten Gips* and *Dipl.-Inform. Birgit Christina George, I contribute to the development of **Dungeon, a **Java-based learning framework* that integrates game mechanics with educational content.
+In addition to that, I am involved in publicly funded _research projects_ related to _software engineering_ and _digital education_. Under the supervision of [Prof. Dr.-Ing. Carsten Gips](https://www.fh-bielefeld.de/personen/carsten-gips) and [Dipl.-Inform. Birgit Christina George](https://www.fh-bielefeld.de/personen/birgit-christina-george), I contribute to the development of [**Dungeon**](https://www.fh-bielefeld.de/freiraum-dungeon), a _Java-based learning framework_ that integrates game mechanics with educational content.
 
-This project fosters interactive learning through the use of *escape rooms* and *coding workshops. It is embedded in several **innovation initiatives* within German higher education, including Freiraum, PRODUS and LROD.
+This project fosters interactive learning through the use of _escape rooms_ and _coding workshops_. It is embedded in several _innovation initiatives_ within German higher education, including **Freiraum**, **PRODUS**, and **LROD**.
 
-📫 *How to reach me:* muhammed_tarek.dawalibi@hsbi.de
-
+📫 **How to reach me:** [muhammed_tarek.dawalibi@hsbi.de](mailto:muhammed_tarek.dawalibi@hsbi.de)
 
 
 <p align="center">
