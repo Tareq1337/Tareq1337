@@ -4,11 +4,11 @@
 
 ## 🧑‍💻 About Me
 
-I'm currently completing my _Bachelor's degree in Computer Science_ at [Bielefeld University of Applied Sciences](https://www.fh-bielefeld.de), with a focus on _software development_ and _system design_.
+I'm currently completing my _Bachelor's degree in Computer Science_ at [Bielefeld University of Applied Sciences (HSBI)](https://www.hsbi.de), with a focus on _software development_ and _system design_.
 
 Since **2022**, I have been working as an **IT Administrator** at the university’s data center (DVZ), where I support the IT infrastructure and digital services.
 
-In addition to that, I am involved in publicly funded _research projects_ related to _software engineering_ and _digital education_. Under the supervision of [Prof. Dr.-Ing. Carsten Gips](https://www.fh-bielefeld.de/personen/carsten-gips) and [Dipl.-Inform. Birgit Christina George](https://www.fh-bielefeld.de/personen/birgit-christina-george), I contribute to the development of [**Dungeon**](https://www.fh-bielefeld.de/freiraum-dungeon), a _Java-based learning framework_ that integrates game mechanics with educational content.
+In addition to that, I am involved in publicly funded _research projects_ related to _software engineering_ and _digital education_. Under the supervision of [Prof. Dr.-Ing. Carsten Gips](https://www.hsbi.de/personenverzeichnis/carsten-gips) and [Dipl.-Inform. Birgit Christina George](https://www.hsbi.de/minden/ueber-uns/personenverzeichnis/birgit-christina-george), I contribute to the development of [**Dungeon**](https://github.com/Dungeon-CampusMinden), a _Java-based learning framework_ that integrates game mechanics with educational content.
 
 This project fosters interactive learning through the use of _escape rooms_ and _coding workshops_. It is embedded in several _innovation initiatives_ within German higher education, including **Freiraum**, **PRODUS**, and **LROD**.
 
@@ -20,8 +20,11 @@ This project fosters interactive learning through the use of _escape rooms_ and 
 </p>
 
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="180px" alt="About Me GIF"/>
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="Coder GIF" width="300" />
 </p>
+
+
+
 
 
 
@@ -187,4 +190,6 @@ This project fosters interactive learning through the use of _escape rooms_ and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq1337&theme=radical&layout=compact&border=false&include_all_commits=true&count_private=true" alt="Top Languages"/>
 </p>
 
-
+<p align="center">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="180px" alt="About Me GIF"/>
+</p>
