@@ -190,6 +190,3 @@ This project fosters interactive learning through the use of _escape rooms_ and 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tareq1337&theme=radical&layout=compact&border=false&include_all_commits=true&count_private=true" alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="180px" alt="About Me GIF"/>
-</p>
